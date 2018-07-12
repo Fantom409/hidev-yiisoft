@@ -1,0 +1,10 @@
+package:
+    type:           yii2-extension
+    name:           hidev-yiisoft
+    title:          YiiSoft vendor configuration for HiDev
+    headline:       YiiSoft HiDev
+    keywords:       yiisoft, hidev, vendor, config
+
+include:
+    - config/goals.yml
+
