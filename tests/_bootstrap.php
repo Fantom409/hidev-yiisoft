@@ -5,6 +5,6 @@
  * @license http://www.yiiframework.com/license/
  */
 
-error_reporting(E_ALL);
+error_reporting(-1);
 
 require_once __DIR__ . '/../vendor/autoload.php';
